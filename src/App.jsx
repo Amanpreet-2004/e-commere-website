@@ -28,9 +28,9 @@ function App() {
     </>
   } />
    <Route path="/signup" element={<Signup />} />
-
+  
     <Route path="/login" element={<Login />} />
-    
+    <Route path="/about" element={<About/>}/>
     <Route path="/products" element ={<Product/>} />
     <Route path="/cart" element={<Cart/>}/>
     <Route path="/checkout" element={<Checkout/>}/>

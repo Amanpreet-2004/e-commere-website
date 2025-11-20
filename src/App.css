@@ -223,9 +223,11 @@ border-radius: 20px;
 }
 .imgAbout{
 size:100% 100%;
+width: 450px;
 height: 350px;
-
+margin-top: 40px;
 border-radius: 0px 30px;
+
 }
 
 

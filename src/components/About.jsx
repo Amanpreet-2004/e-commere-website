@@ -5,7 +5,7 @@ import React from "react";
 const About = () => {
   return (
     <>
-      <div className="container3 ">
+      <div className="container3 mt-5 m-5 ">
         <div className="row g-5">
          
           <div className="col-lg-5 col-md-6 col-sm-12 text-center mb-4 mb-md-0">
@@ -17,8 +17,8 @@ const About = () => {
           </div>
 
         
-          <div className="col-lg-7 col-md-6 col-sm-12">
-            <h2 className="mb-3 text-center">About Us</h2>
+          <div className="col-lg-7 col-md-6 col-sm-12 ">
+            <h2 className="mb-2 text-center mt-3">About Us</h2>
             <p className="para">
               Welcome to <b>ShopSmart</b>, your trusted online shopping destination.
               We started our journey in 2020 with a simple idea – to make quality
